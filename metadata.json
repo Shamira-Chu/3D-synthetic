@@ -1,0 +1,8 @@
+{
+  "name": "Remix Roller Derby Competition Arena",
+  "description": "Interactive standard oval Roller Derby track arena with clickable information points across spectator stands, skaters, referees, and track zones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
